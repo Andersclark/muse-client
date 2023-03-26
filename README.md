@@ -4,7 +4,7 @@ A utility web app for playing around with the Muse headset.
 
 ## Get started
 
-*NOTE: This website connects to a local server vi websocket and streams muse-readings to the server.*
+*NOTE: This website connects to the [muse-server app](https://github.com/Andersclark/muse-server) vi websocket and streams muse-readings to the server.*
 
 1. Clone this repository
 2. `npm install`
